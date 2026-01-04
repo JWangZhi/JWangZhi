@@ -1,4 +1,4 @@
-# 👋 Hi — I'm JKisotama
+# 👋 Hi — I'm WangZhi
 
 [![Follow on GitHub](https://img.shields.io/github/followers/JKisotama?label=Follow&style=social)](https://github.com/JKisotama)
 [![Top languages](https://img.shields.io/github/languages/top/JKisotama/JKisotama?color=blue&style=flat-square)](https://github.com/JKisotama)
@@ -62,7 +62,6 @@ Testing & quality
 ---
 
 ## ✉️ Contact
-- GitHub: [@JKisotama](https://github.com/JKisotama)  
 - Email: wangzhi.dev@gmail.com 
 - X: [@wang_evm888](https://x.com/wang_evm888)
 
