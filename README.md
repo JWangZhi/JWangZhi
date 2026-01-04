@@ -1,8 +1,8 @@
 # 👋 Hi — I'm WangZhi
 
-[![Follow on GitHub](https://img.shields.io/github/followers/JKisotama?label=Follow&style=social)](https://github.com/JKisotama)
-[![Top languages](https://img.shields.io/github/languages/top/JKisotama/JKisotama?color=blue&style=flat-square)](https://github.com/JKisotama)
-[![Status](https://img.shields.io/badge/Focus-Backend%20%7C%20Infra-green?style=flat-square)](https://github.com/JKisotama)
+[![Follow on GitHub](https://img.shields.io/github/followers/JWangZhi?label=Follow&style=social)](https://github.com/JWangZhi)
+[![Top languages](https://img.shields.io/github/languages/top/JWangZhi/JWangZhi?color=blue&style=flat-square)](https://github.com/JWangZhi)
+[![Status](https://img.shields.io/badge/Focus-Backend%20%7C%20Infra-green?style=flat-square)](https://github.com/JWangZhi)
 
 I'm a backend and infrastructure-focused developer working primarily with C# and Python. I build reliable APIs, scalable background workers, and resilient infrastructure with strong emphasis on observability and automation.
 
