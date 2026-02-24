@@ -37,15 +37,6 @@ Testing & quality
 
 ---
 
-## 🚀 Selected / suggested projects
-(Share repo links and short descriptions and I'll replace the placeholders with real entries and demos.)
-
-- Project-API — Robust C# REST API with PostgreSQL and CI/CD (link)
-- Infra-Automation — Terraform modules + GitHub Actions for deployments (link)
-- Worker-Pipeline — Python background workers and ETL flows (link)
-
----
-
 ## 🧭 How I work
 - Small, well-tested services with clear API contracts and meaningful integration tests.
 - Infrastructure as Code + automated pipelines to reduce manual toil and improve reliability.
